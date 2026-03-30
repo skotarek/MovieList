@@ -12,7 +12,7 @@ export default function Footer() {
       <div className='movielist'>
         <h1>MovieList</h1>
         <hr />
-        <b>by <a href='https://github.com/Ravord/'>m_skotarek</a></b>
+        <b>by <a href='https://github.com/skotarek/'>m_skotarek</a></b>
       </div>
     </div>
   )
